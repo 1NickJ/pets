@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     LinearLayout listLayout;
     TextView textView;
-    String[] animals = {"lion","giraffe","fish","monkey","Zebra", "cat", "dog", "lizard", "elephant","snake","sloth","beetle", "gazelle", "horse", "deer","sheep","bear","armadillo"};
+    String[] animals = {"buffalo","unicorn","lion","giraffe","fish","monkey","Zebra", "cat", "dog", "lizard", "elephant","snake","sloth","beetle", "gazelle", "horse", "deer","sheep","bear","armadillo"};
     Button button;
 
     @Override
